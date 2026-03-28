@@ -1,7 +1,5 @@
 # Sistema Acadêmico em Java
 
-Projeto desenvolvido para a disciplina de Programação Orientada a Objetos (POO), ministrada pelo Prof. Lucas Marques.
-
 O sistema simula um ambiente acadêmico simples, permitindo o cadastro de alunos, disciplinas e turmas, além da realização de matrículas e exibição de relatórios.
 
 ## Objetivos do Projeto

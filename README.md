@@ -64,7 +64,7 @@ Classe principal utilizada para criar objetos e testar todos os métodos impleme
 
 - Java
 - Programação Orientada a Objetos
-- IDE de desenvolvimento Java (Eclipse, IntelliJ ou VS Code)
+- IDE de desenvolvimento Java (Eclipse)
 
 ## Autor
 
